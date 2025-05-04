@@ -1,0 +1,75 @@
+
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+---------
+Player X's turn
+Enter row (0-2): 0
+Enter column (0-2): 0
+
+
+X |   |
+---------
+  |   |
+---------
+  |   |
+---------
+Player O's turn
+Enter row (0-2): 0
+Enter column (0-2): 0
+Cell already taken! Try again.
+
+
+X |   |
+---------
+  |   |
+---------
+  |   |
+---------
+Player O's turn
+Enter row (0-2): 0
+Enter column (0-2): 1
+
+
+X | O |
+---------
+  |   |
+---------
+  |   |
+---------
+Player X's turn
+Enter row (0-2): 1
+Enter column (0-2): 1
+
+
+X | O |
+---------
+  | X |
+---------
+  |   |
+---------
+Player O's turn
+Enter row (0-2): 0
+Enter column (0-2): 2
+
+
+X | O | O
+---------
+  | X |
+---------
+  |   |
+---------
+Player X's turn
+Enter row (0-2): 2
+Enter column (0-2): 2
+
+
+X | O | O
+---------
+  | X |
+---------
+  |   | X
+---------
+🎉 Player X wins!
